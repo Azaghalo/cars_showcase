@@ -17,9 +17,11 @@ Check out the live demo of the project at https://cars-showcase-opal.vercel.app.
 
 ## Technologies Used
 
-React.js and Next.js for frontend development.
-CSS for styling and responsive design.
-Vercel for easy deployment and hosting.
+- React.js and Next.js for frontend development.
+- Tailwind CSS for styling and responsive design.
+- Vercel for easy deployment and hosting.
+
+  
 ## Authors
 
 - [@Azaghalo](https://github.com/Azaghalo)
